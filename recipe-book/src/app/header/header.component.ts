@@ -8,7 +8,7 @@ import { Recipe } from '../recipes/recipe.model';
 })
 export class HeaderComponent implements OnInit {
   @Output() featureSelected = new EventEmitter<string>();
-  onselect(feature: string) {
+  onSelect(feature: string) {
     this.featureSelected.emit(feature);
   }
   constructor() { }
