@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b45d2ac-c577-456a-9778-b8be95ac5905" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Udemy-course-app-1--recipebook-.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Udemy-course-app-1--recipebook-.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe-book/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/recipe-book/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe-book/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/recipe-book/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe-book/src/app/recipes/recipe-edit/recipe-edit.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/recipe-book/src/app/recipes/recipe-edit/recipe-edit.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe-book/src/app/recipes/recipe-edit/recipe-edit.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/recipe-book/src/app/recipes/recipe-edit/recipe-edit.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe-book/src/app/recipes/recipe.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/recipe-book/src/app/recipes/recipe.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe-book/src/app/recipes/recipes.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/recipe-book/src/app/recipes/recipes.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe-book/src/app/shopping-list/shopping-edit/shopping-edit.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/recipe-book/src/app/shopping-list/shopping-edit/shopping-edit.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe-book/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/recipe-book/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe-book/src/app/shopping-list/shopping-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/recipe-book/src/app/shopping-list/shopping-list.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe-book/src/app/shopping-list/shopping-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/recipe-book/src/app/shopping-list/shopping-list.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe-book/src/app/shopping-list/shopping-list.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/recipe-book/src/app/shopping-list/shopping-list.service.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +46,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
     <property name="ts.external.directory.path" value="D:\angular\tutorial\Udemy-course-app-1--recipebook-\recipe-book\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
@@ -88,6 +101,8 @@
       <workItem from="1577540659944" duration="6369000" />
       <workItem from="1579029636618" duration="498000" />
       <workItem from="1579030147672" duration="6940000" />
+      <workItem from="1579114894008" duration="914000" />
+      <workItem from="1579207146396" duration="4779000" />
     </task>
     <task id="LOCAL-00001" summary="finished with lecture 89.">
       <created>1577465455442</created>
@@ -117,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579036714543</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="finished with lecture 168.">
+      <created>1579114942330</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579114942330</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,18 +193,18 @@
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="648" y="344" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1858.1080/1983.0.1857.1080@0.0.1858.1080" timestamp="1579029767334" />
-    <state x="554" y="135" key="CommitChangelistDialog2" timestamp="1579036711694">
+    <state x="554" y="135" key="CommitChangelistDialog2" timestamp="1579114939087">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="554" y="135" key="CommitChangelistDialog2/0.0.1858.1080/1983.0.1857.1080@0.0.1858.1080" timestamp="1579036711694" />
-    <state x="430" y="183" key="SettingsEditor" timestamp="1579030134707">
+    <state x="554" y="135" key="CommitChangelistDialog2/0.0.1858.1080/1983.0.1857.1080@0.0.1858.1080" timestamp="1579114939087" />
+    <state x="430" y="183" key="SettingsEditor" timestamp="1579210726593">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="430" y="183" key="SettingsEditor/0.0.1858.1080/1983.0.1857.1080@0.0.1858.1080" timestamp="1579030134707" />
-    <state x="521" y="274" key="Vcs.Push.Dialog.v2" timestamp="1579036717424">
+    <state x="430" y="183" key="SettingsEditor/0.0.1858.1080/1983.0.1857.1080@0.0.1858.1080" timestamp="1579210726593" />
+    <state x="521" y="274" key="Vcs.Push.Dialog.v2" timestamp="1579114944380">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="521" y="274" key="Vcs.Push.Dialog.v2/0.0.1858.1080/1983.0.1857.1080@0.0.1858.1080" timestamp="1579036717424" />
+    <state x="521" y="274" key="Vcs.Push.Dialog.v2/0.0.1858.1080/1983.0.1857.1080@0.0.1858.1080" timestamp="1579114944380" />
     <state x="625" y="138" width="607" height="804" key="find.popup" timestamp="1579035969996">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
