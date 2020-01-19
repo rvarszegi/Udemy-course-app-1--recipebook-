@@ -25,6 +25,11 @@ export class RecipeService {
   constructor(private shoppingListService: ShoppingListService, private routeSnapshot: Router) {
   }
 
+  setRecipes(recipes: Recipe[]) {
+    this.recipes = recipes;
+    this.recipesChanged.next(this.recipes.slice());
+  }
+
   getRecipes() {
     return this.recipes.slice();
   }
