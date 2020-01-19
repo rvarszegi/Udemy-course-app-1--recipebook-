@@ -1,22 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b45d2ac-c577-456a-9778-b8be95ac5905" name="Default Changelist" comment="finished with lecture 228.">
+    <list default="true" id="9b45d2ac-c577-456a-9778-b8be95ac5905" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/recipe-book/src/app/recipes/recipes.resolver.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-book/src/app/shared/data-storage.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe-book/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/recipe-book/src/app/app-routing.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recipe-book/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/recipe-book/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipe-book/src/app/recipes/recipe-detail/recipe-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/recipe-book/src/app/recipes/recipe-detail/recipe-detail.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipe-book/src/app/recipes/recipe-detail/recipe-detail.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/recipe-book/src/app/recipes/recipe-detail/recipe-detail.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipe-book/src/app/recipes/recipe-edit/recipe-edit.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/recipe-book/src/app/recipes/recipe-edit/recipe-edit.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipe-book/src/app/recipes/recipe-edit/recipe-edit.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/recipe-book/src/app/recipes/recipe-edit/recipe-edit.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipe-book/src/app/recipes/recipe-edit/recipe-edit.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/recipe-book/src/app/recipes/recipe-edit/recipe-edit.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipe-book/src/app/recipes/recipe-list/recipe-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/recipe-book/src/app/recipes/recipe-list/recipe-list.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe-book/src/app/header/header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/recipe-book/src/app/header/header.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe-book/src/app/header/header.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/recipe-book/src/app/header/header.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recipe-book/src/app/recipes/recipe.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/recipe-book/src/app/recipes/recipe.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipe-book/src/app/recipes/recipes.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/recipe-book/src/app/recipes/recipes.component.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -101,7 +106,8 @@
       <workItem from="1579207146396" duration="4924000" />
       <workItem from="1579363969677" duration="186000" />
       <workItem from="1579364168601" duration="36000" />
-      <workItem from="1579364219840" duration="7228000" />
+      <workItem from="1579364219840" duration="7459000" />
+      <workItem from="1579450141956" duration="2969000" />
     </task>
     <task id="LOCAL-00001" summary="finished with lecture 89.">
       <created>1577465455442</created>
@@ -145,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579212027903</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="finished with lecture 238.">
+      <created>1579377545256</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1579377545256</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,25 +206,26 @@
     <MESSAGE value="finished with lecture 122." />
     <MESSAGE value="finished with lecture 168." />
     <MESSAGE value="finished with lecture 228." />
-    <option name="LAST_COMMIT_MESSAGE" value="finished with lecture 228." />
+    <MESSAGE value="finished with lecture 238." />
+    <option name="LAST_COMMIT_MESSAGE" value="finished with lecture 238." />
   </component>
   <component name="WindowStateProjectService">
     <state x="648" y="344" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579029767334">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="648" y="344" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1858.1080/1983.0.1857.1080@0.0.1858.1080" timestamp="1579029767334" />
-    <state x="554" y="135" key="CommitChangelistDialog2" timestamp="1579364003342">
+    <state x="554" y="135" key="CommitChangelistDialog2" timestamp="1579377543447">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="554" y="135" key="CommitChangelistDialog2/0.0.1858.1080/1983.0.1857.1080@0.0.1858.1080" timestamp="1579364003342" />
+    <state x="554" y="135" key="CommitChangelistDialog2/0.0.1858.1080/1983.0.1857.1080@0.0.1858.1080" timestamp="1579377543447" />
     <state x="825" y="146" key="SettingsEditor" timestamp="1579364341927">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="825" y="146" key="SettingsEditor/0.0.1858.1080/1983.0.1857.1080@0.0.1858.1080" timestamp="1579364341927" />
-    <state x="521" y="274" key="Vcs.Push.Dialog.v2" timestamp="1579212032453">
+    <state x="521" y="274" key="Vcs.Push.Dialog.v2" timestamp="1579377548014">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="521" y="274" key="Vcs.Push.Dialog.v2/0.0.1858.1080/1983.0.1857.1080@0.0.1858.1080" timestamp="1579212032453" />
+    <state x="521" y="274" key="Vcs.Push.Dialog.v2/0.0.1858.1080/1983.0.1857.1080@0.0.1858.1080" timestamp="1579377548014" />
     <state x="625" y="138" width="611" height="804" key="find.popup" timestamp="1579365165600">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
@@ -220,6 +234,10 @@
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="570" y="266" width="700" height="530" key="recent.locations.popup/0.0.1858.1080/1983.0.1857.1080@0.0.1858.1080" timestamp="1579035904673" />
+    <state x="585" y="250" key="run.anything.popup" timestamp="1579451934597">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="585" y="250" key="run.anything.popup/0.0.1858.1080/1983.0.1857.1080@0.0.1858.1080" timestamp="1579451934597" />
     <state x="592" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1579031069436">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
