@@ -20,7 +20,8 @@ export class DataStorageService {
   }
 
   fetchRecipes() {
-    return this.http.get<Recipe[]>('https://ng-complete-guide-dceac.firebaseio.com/recipes.json')
+    return this.http.get<Recipe[]>('https://ng-complete-guide-dceac.firebaseio.com/recipes.json'
+    )
       .pipe(map(recipes => {
           return recipes.map(recipe => {
             return {...recipe, ingredients: recipe.ingredients ? recipe.ingredients : []};
@@ -28,8 +29,7 @@ export class DataStorageService {
         }),
         tap(recipes => {
           this.recipeService.setRecipes(recipes);
-        })
-      );
+        }));
     // .subscribe(data => {
     //   this.recipeService.fetchRecipes(data);
     // });
